@@ -1,4 +1,4 @@
-package com.example.springfilekafka;
+package com.example.springfilekafka.config;
 
 import org.springframework.kafka.retrytopic.DestinationTopic;
 import org.springframework.kafka.retrytopic.RetryTopicNamesProviderFactory;
